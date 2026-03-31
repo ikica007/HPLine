@@ -1,0 +1,7 @@
+{
+  "name": "HP Line d.o.o.",
+  "description": "Proizvodnja namještaja po mjeri i opremanje enterijera u Bijelom Polju, Crna Gora.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
